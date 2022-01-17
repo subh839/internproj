@@ -1,0 +1,25 @@
+
+.button1 {
+    background-color:crimson; 
+    color: white; 
+    border:red;
+    width: 25%;
+    height: 100%;
+  }
+  
+  .container1{
+      text-align: center;
+      border-bottom:3px solid crimson;
+  }
+  .container2{
+      border-top: 4px solid crimson;
+      border-width: 50%;
+      text-align: center;
+  }
+  .container3{
+      text-align: center;
+  }
+
+  .container5{
+      text-align: center;
+  }
